@@ -2,4 +2,4 @@
 
 Data Story Telling
 
-~Work In Progress~
+<i>Work In Progress</i>
